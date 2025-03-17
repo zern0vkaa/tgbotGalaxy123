@@ -1,2 +1,2 @@
 
-BOT_TOKEN = 'ТВОЙ_ТОКЕН_БОТА'
+BOT_TOKEN = '7743046016:AAHZ43k_1bZYIOdO_nCv5kLPHrj3147gu_0'
